@@ -835,13 +835,12 @@ h1, h2, h3, h4, h5, h6 {
 	border: 1px solid rgba(255, 255, 255, 0.5);
 }
 .shop__btn:hover {
-	background-color: rgba(255, 255, 255, 0.5);
-	border: 2px solid #999;
+	border: 2px solid rgb(100, 194, 158);
 	-webkit-transition: all 0.5s ease 0s;
 	-o-transition: all 0.5s ease 0s;
 	transition: all 0.5s ease 0s;
-	color: #602752;
-	border-radius: 15px;
+	color: #rgba(100, 194, 158, 0.5);
+	border-radius: 10px;
 }
 @media (max-width: 1100px) {
 	.shop__body {
